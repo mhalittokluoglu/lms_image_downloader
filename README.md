@@ -43,14 +43,16 @@ Bu resimlerden istenilen kısımları kesmek için ise image_cutter.py'ı çalı
 Ekran resolution'ınıza göre resim lokasyonu değişebilir.
 image_cutter.py'ı açınız ve oradaki x1 y1 x2 y2 değerlerini resimlerinizdeki pixel yerine göre belirleyiniz
 
-|-----------------------------------|
-|-----------------------------------|
-|---|x1,y1____________________|-----|
-|---|-------------------------|-----|
-|---|-------------------------|-----|
-|---|____________________x2,y2|-----|
-|-----------------------------------|
-|-----------------------------------|
+IWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWI
+IWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWI
+IWWW(x1,y1)EEEEEEEEEEEEEEEEEEWWWWWWWI
+IWWWEEEEEEEEEEEEEEEEEEEEEEEEEWWWWWWWI
+IWWWEEEEEEEEEEEEEEEEEEEEEEEEEWWWWWWWI
+IWWWEEEEEEEEEEEEEEEEEEEEEEEEEWWWWWWWI
+IWWWEEEEEEEEEEEEEEEEEEEEEEEEEWWWWWWWI
+IWWWEEEEEEEEEEEEEEEEEE(x2,y2)WWWWWWWI
+IWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWI
+IWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWI
 
 Burada asıl resimden x1,y1  ve x2,y2 değerlerine göre dikdörtgen kırpılmaktadır.
 
