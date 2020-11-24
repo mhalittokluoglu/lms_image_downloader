@@ -44,12 +44,12 @@ Ekran resolution'ınıza göre resim lokasyonu değişebilir.
 image_cutter.py'ı açınız ve oradaki x1 y1 x2 y2 değerlerini resimlerinizdeki pixel yerine göre belirleyiniz
 
 |-----------------------------------|
-|                                   |
-|   |x1,y1--------------------|     |
-|   |                         |     |
-|   |                         |     |
-|   |--------------------x2,y2|     |
-|                                   |
+|-----------------------------------|
+|---|x1,y1____________________|-----|
+|---|-------------------------|-----|
+|---|-------------------------|-----|
+|---|____________________x2,y2|-----|
+|-----------------------------------|
 |-----------------------------------|
 
 Burada asıl resimden x1,y1  ve x2,y2 değerlerine göre dikdörtgen kırpılmaktadır.
